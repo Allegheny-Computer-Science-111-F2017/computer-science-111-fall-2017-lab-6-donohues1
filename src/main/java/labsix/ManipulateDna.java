@@ -68,7 +68,7 @@ public class ManipulateDna {
     System.out.println("Changing position " + " gives " + three);
     // Step Six: Display a final thankyou message
     System.out.println("Thank you for using my ManipulationDna Program.");
-    System.out.println("Have a good day.");
+    System.out.println("Have a nice day.");
   }
 
 }
